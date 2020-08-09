@@ -16,7 +16,6 @@ public class EnemyMissileOne extends GameFigure implements Subject {
     public static final int STATE_FALLING = 1;
     public static final int STATE_DONE = 2;
 
-
     int size = 40;
     int width, height;
     boolean movingRight = true;
