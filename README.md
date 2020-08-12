@@ -1,1 +1,4 @@
 # neophoenix
+![alt text](https://user-images.githubusercontent.com/61117509/89961824-9112d100-dc08-11ea-8eb9-6d87da6902d6.png)
+#### *NeoPhoenix* is a simple 2D shooter game created from scratch in Java within the IntelliJ IDEA IDE. It is an academic application made to practice advanced programming concepts, multiple interface implementation, and the MVC design pattern.
+#### Inspired on the classic *Space Invaders*, the game is a *Shoot'em up* played with the keyboard. The player has the option to shoot multiple different projectiles in order to avoid enemies touching it and reducing its vitality bar. As the game progresses, different enemies appear on the screen, with the eventual display of the final boss. The game is won if the player avoid its vitality bar reaching 0 and defeating the final boss.
